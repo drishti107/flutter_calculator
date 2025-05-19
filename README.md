@@ -1,2 +1,3 @@
-This a flutter based calculator app
+This a flutter based calculator app.
+<br>
 Author - Drishti Verma
